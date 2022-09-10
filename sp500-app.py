@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 16 00:42:24 2022
 
-@author: Jordi Garcia Ruspira
+@author: Jordi 
 """
 
 from plotly.subplots import make_subplots
