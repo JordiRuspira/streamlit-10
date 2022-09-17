@@ -60,7 +60,7 @@ st.sidebar.markdown("# Kurama")
 st.sidebar.success("Hi! This is a simple version :) ")
  
  
-API_KEY = "3b5afbf4-3004-433c-9b04-2e867026718b"
+API_KEY = os.getenv("API_KEY")
 
  
 
